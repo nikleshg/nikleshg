@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Niklesh, and I am a UC Santa Cruz Computer Science graduate with an interest in Machine Learning and Data.
+
 <!--
 **nikleshg/nikleshg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
